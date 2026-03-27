@@ -61,21 +61,29 @@ Coupling (dB) = 10 log10 PC1/ PH = -10 log10 PC2/ PH.
 The difference in the attenuator settings gives the ration of the
 power coupled to thecollinear to that in the main arm, in dB. This value is around 3dB.
 
-**F.	Observation: ( Include your own Table relevant to the Experiment)**
 
-**Isolation measurement** (Tabulation)
 
-**Measurement of power division** (Tabulation)
+
+**Measurement of power division** 
+
+![WhatsApp Image 2025-11-06 at 08 56 03_2052feda](https://github.com/user-attachments/assets/54eb8148-ba8e-4846-a11e-83823fc7267a)
+
 
 
 **G.	Analysis of Results: (Write your own)**
 
-(Include sample calculations/Display/plot/typical graph)
+![WhatsApp Image 2025-11-06 at 08 56 02_a8e723f1](https://github.com/user-attachments/assets/b9a362ae-ba6b-4847-8bd8-f4ef88b1e949)
+**Measurement of power division** (Tabulation)
 
-**H.	Conclusions: (Write your Own)**
+G. Analysis of Results:
+
+The measured power distribution showed correct sum and difference behavior between the E-arm and H-arm. A strong output at the sum port and a reduced/null output at the difference port confirmed proper phase characteristics. Slight deviations from ideal values occurred due to mismatching and insertion losses. Overall, the Magic Tee operated as expected for power combining and dividing.
+
+H. Conclusions:
 
 Isolation between E and H arms (dB) = (A1 – A2) dB
-Coupling between collinear arms and E/H arms (dB) = (A1 – A2) dB
+
+Coupling between collinear arms and E/H arms (dB) = (A1 – A2) dB = 716mV
 
 **Precautions:**
 
@@ -84,3 +92,4 @@ Coupling between collinear arms and E/H arms (dB) = (A1 – A2) dB
 •	Observation should be taken properly.
 
 **Result:**
+Hence we successfully completed the experiment using magic tree.
